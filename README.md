@@ -1,5 +1,6 @@
 # BfaCore - World of Warcraft Battle For Azeroth 8.3.7.35662 Emulator
 
+http://www.ac-web.org/forums/showthread.php?238430-New-Bfa-8-3-7-Repack-release
 
 --------------
 
