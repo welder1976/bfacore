@@ -38,16 +38,3 @@ Windows, Linux and macOS.
 Detailed installation guides are available in the TrinityCore [wiki](https://www.trinitycore.info/display/tc/Installation+Guide) for
 Windows, Linux and macOS.
 
-
-
-## Donations
-
-* https://paypal.me/BfaCore
-
-
-
-## Links
-
-* [BfaCore Discord](https://www.bfacore.com/discord)
-* [BfaCore BugTracker](https://tracker.bfacore.com/)
-
